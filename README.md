@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahmadfauzan07
 - 🌱 I’m currently learning code for the first time
-- 📫 How to reach me : @rahmadfauzanhsb@gmail.com
+- 📫 How to reach me : rahmadfauzanhsb@gmail.com
 
 
 <!---
